@@ -18,4 +18,4 @@ alias netcat='docker run --rm -it craighurley/netcat'
 
 ## Links
 
--  <https://man.openbsd.org/nc.1>
+- <https://man.openbsd.org/nc.1>
