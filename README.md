@@ -13,7 +13,7 @@ docker run --rm -it craighurley/netcat
 Optional: create an alias for the container:
 
 ```sh
-alias netcat='docker run --rm -it craighurley/netcat'
+alias nc='docker run --rm -it craighurley/netcat'
 ```
 
 ## Links
